@@ -1,2 +1,16 @@
-body { background-color: #305050;  color: white; }
-<link rel="stylesheet" href="style.css“>
+body  {	
+	background-color: #305050;
+	color: white;
+}
+
+h2{
+  color:orange;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
+
+ruan123456{
+    font-weight: bold;
+}
